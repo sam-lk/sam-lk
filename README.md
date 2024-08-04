@@ -5,10 +5,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sam-lk&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="242" alt="activity-graph graph"  />
 </div>
 
-<div align="center">
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sam-lk&theme=highcontrast&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-lk&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-</div>
+
 
 ## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sms.samantha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sam_smslk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sms-lk)<br>
