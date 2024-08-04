@@ -1,7 +1,7 @@
 <h1 align="center"><a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F79B18&width=435&lines=Hello+👋;I'm+Samantha" alt="Typing SVG" /></a></h1>
 
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sam-lk&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="242" alt="activity-graph graph"  />
 </div>
 
